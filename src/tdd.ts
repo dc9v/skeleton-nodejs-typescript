@@ -1,0 +1,1 @@
+export const TDD = (a: number, b: number) => a + b;

@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": ".",
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "lib": [
+      "es5",
+      "es6",
+      "es7",
+      "esnext"
+    ],
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "outDir": "build",
+    "paths": {
+      "/src/*": [
+        "src/*"
+      ],
+    },
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "target": "ESNext"
+  },
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ]
+}
