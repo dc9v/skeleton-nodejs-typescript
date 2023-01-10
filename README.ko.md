@@ -1,4 +1,4 @@
-start-nodejs-typescript
+skeleton-nodejs-typescript
 ===
 
 ## 이 프로젝트는? (What is this project for?)
