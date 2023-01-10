@@ -1,4 +1,4 @@
-start-nodejs-typescript-project
+skeleton-nodejs-typescript
 ===
 
 - [Korean](https://github.com/makesomesparks/start-nodejs-typescript/blob/main/README.ko.md) 
