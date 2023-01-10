@@ -1,6 +1,10 @@
 start-nodejs-typescript-project
 ===
 
+- [Korean](https://github.com/makesomesparks/start-nodejs-typescript/blob/main/README.ko.md) 
+
+- [English](https://github.com/makesomesparks/start-nodejs-typescript)
+
 ## What is this project for?
 
 This project can use as skeleton code to start your Nodejs-Typescript project authoring quickly.
